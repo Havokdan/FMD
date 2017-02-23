@@ -192,8 +192,7 @@ msgstr "Free Manga Downloader já está em execução!"
 msgid ""
 "There is a problem with this data!\n"
 "Removing and re-adding this data may fix the problem.\n"
-msgstr ""
-"Há um problema com estes dados!\n"
+msgstr "Há um problema com estes dados!\n
 "Removendo e re-adicionando estes dados pode corrigir o problema.\n"
 
 #: frmmain.rs_history
@@ -252,7 +251,7 @@ msgstr ""
 "%s : Caminho para o mangá\n"
 "%s : Nome do capítulo\n"
 "\n"
-"Examplo : \"%s%s\"\n"
+"Exemplo : \"%s%s\"\n"
 
 #: frmmain.rs_loading
 msgid "Loading ..."
@@ -569,7 +568,7 @@ msgstr "Visite meu blog"
 
 #: tmainform.caption
 msgid "Free Manga Downloader"
-msgstr ""
+msgstr "Free Manga Downloader"
 
 #: tmainform.cbaddasstopped.caption
 msgid "Add to download list as stopped task"
@@ -677,7 +676,7 @@ msgstr "Exibir Barra de Ferramentas de Downloads"
 
 #: tmainform.cboptionshowdownloadtoolbardeleteall.caption
 msgid "Show \"Delete all completed tasks\" in downloads toolbar"
-msgstr ""
+msgstr "Exibir \"Apagar todas tarefas concluídas\" na barra de ferramentas"
 
 #: tmainform.cboptionshowquitdialog.caption
 msgid "Exit FMD"
@@ -789,7 +788,7 @@ msgid ""
 "Girls dressing up as guys, guys dressing up as girls.\n"
 "Guys turning into girls, girls turning into guys.\n"
 msgstr ""
-"Meninas vestindo-se como caras, caras vestir-se como meninas.r\n"
+"Meninas vestindo-se como caras, caras vestir-se como meninas.\n"
 "Rapazes se transformando em garotas, garotas se transformando em caras\n"
 
 #: tmainform.ckfilterharem.caption
@@ -1202,14 +1201,14 @@ msgid ""
 "- Exclude a genre by placing '!' or '-' at the beginning of a genre.\n"
 "- Example: Adventure,!Ecchi,Comedy.\n"
 msgstr ""
-"Géneros:r\n"
-"- Marcado: Inclua este gênero.r\n"
-"- Desmarcado: exclua esse gênero.r\n"
-"- Cinzento: Não importa.r\n"
-"r\n"
-"Géneros Personalizados:r\n"
-"- Separar vários gêneros com ','.r\n"
-"- Excluir um gênero colocando '!' Ou '-' no início de um gênero.r\n"
+"Gêneros:\n"
+"- Marcado: Inclua este gênero.\n"
+"- Desmarcado: exclua esse gênero.\n"
+- Cinzento: Não importa.\n"
+"\n"
+"Gêneros Personalizados:\n"
+"- Separar vários gêneros com ','.\n"
+"- Excluir um gênero colocando '!' Ou '-' no início de um gênero.\n"
 "- Exemplo: Aventura, Ecchi, Comédia.\n"
 
 #: tmainform.lbfilterstatus.caption
@@ -1268,11 +1267,10 @@ msgstr ""
 "%MANGA% : Título do Mangá\n"
 "%CHAPTER% : Título do capítulo\n"
 "%AUTHOR% : Autor\n"
-"%ARTIST% : Artista\n"
-"%NUMBERING% : Número\n"
+%ARTIST% : Artista\n"
+%NUMBERING% : Número\n"
 "\n"
-"Nota:\n"
-"O nome da pasta do capítulo deve ter pelo menos %CHAPTER% ou %NUMBERING%.\n"
+"Nota:\nO nome da pasta do capítulo deve ter pelo menos %CHAPTER% ou %NUMBERING%.\n"
 
 #: tmainform.lboptionconnectiontimeout.caption
 msgid "Connection timeout (seconds)"
@@ -1309,14 +1307,7 @@ msgid ""
 "\n"
 "Note:\n"
 "Filename must have at least %FILENAME%\n"
-msgstr ""
-"%WEBSITE% : Nome do Website\n"
-"%MANGA% : Título do Mangá\n"
-"%CHAPTER% : Título do Capítulo\n"
-"%FILENAME% : Nome do arquivo\n"
-"\n"
-"Nota:\n"
-"Nome do arquivo deve ter pelo menos %FILENAME%\n"
+msgstr "%WEBSITE% : Nome do Website\n%MANGA% : Título do Mangá\n%CHAPTER% : Título do Capítulo\n%FILENAME% : Nome do arquivo\n\nNota:\nNome do arquivo deve ter pelo menos %FILENAME%\n"
 
 #: tmainform.lboptionhost.caption
 msgid "Host"
